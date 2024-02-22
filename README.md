@@ -1,8 +1,8 @@
 ![Header](https://github.com/Iulia-kld/Iulia-kld/blob/main/assets/2024-01-31_13-00-05.png)
 
-## Привет, меня зовут Юлия и я - QA engineer.
+## Привет, меня зовут Юлия и я - QA engineer, влюблённый в сериал "Друзья".
 
-## Tools:
+## Инструменты, которыми я пользуюсь:
 
 ![Postman](https://img.shields.io/badge/-Postman-444444?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-444444?style=for-the-badge&logo=Swagger)
@@ -17,7 +17,7 @@
 ![Charles](https://img.shields.io/badge/-Charles-444444?style=for-the-badge&logo=Charles)
 
 
-
-
-
-Follow Me
+## Связаться со мной:
+![Telegram](https://img.shields.io/badge/-Telegram-444444?style=for-the-badge&logo=Telegram)
+![HeadHunter](https://img.shields.io/badge/-HeadHunter-444444?style=for-the-badge&logo=Headhunter)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-444444?style=for-the-badge&logo=LinkedIn&logoColor=007ab9)

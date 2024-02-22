@@ -1,4 +1,4 @@
-![Header](https://github.com/Iulia-kld/Iulia-kld/blob/main/assets/1.png)
+![Header](https://github.com/Iulia-kld/Iulia-kld/blob/main/assets/2024-01-31_13-00-05.png)
 
 About me
 

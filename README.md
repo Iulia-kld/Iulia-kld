@@ -4,10 +4,10 @@
 
 ## Инструменты, которыми я пользуюсь:
 
-![Postman](https://img.shields.io/badge/-Postman-red?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-yellow?style=for-the-badge&logo=DBeaver)
+![Postman](https://img.shields.io/badge/-Postman-444444?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-444444?style=for-the-badge&logo=Swagger)
+![PostgreSQL](https://img.shields.io/badge/-SQL-444444?style=for-the-badge&logo=PostgreSQL)
+![DBeaver](https://img.shields.io/badge/-DBeaver-444444?style=for-the-badge&logo=DBeaver)
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-444444?style=for-the-badge&logo=CSS3)
 ![Figma](https://img.shields.io/badge/-Figma-444444?style=for-the-badge&logo=Figma)

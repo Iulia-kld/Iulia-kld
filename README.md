@@ -25,4 +25,4 @@
 ## Связаться со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-444444?style=for-the-badge&logo=Telegram)](https://t.me/el_vuelo)
 [![HeadHunter](https://img.shields.io/badge/-HeadHunter-444444?style=for-the-badge&logo=Headhunter)](https://kaliningrad.hh.ru/applicant/resumes/view?resume=285bc6ccff09d83d770039ed1f42455a704272)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-444444?style=for-the-badge&logo=LinkedIn&logoColor=007ab9)
+
